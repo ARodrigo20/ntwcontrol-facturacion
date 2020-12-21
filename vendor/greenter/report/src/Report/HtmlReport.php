@@ -31,7 +31,7 @@ class HtmlReport implements ReportInterface
     /**
      * @var string
      */
-    private $template = 'invoice.html.twig';
+    private $template = 'invoice2.html.twig';
 
     /**
      * HtmlReport constructor.
