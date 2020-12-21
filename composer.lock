@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e261fdc5548620dbcd65b9598b9199f2",
+    "content-hash": "5cafdc808b716078fd37067b43997117",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -466,6 +466,11 @@
                 "sunat",
                 "xml"
             ],
+            "support": {
+                "forum": "https://community.greenter.dev/",
+                "issues": "https://github.com/thegreenter/lite/issues",
+                "source": "https://github.com/thegreenter/lite/tree/v4.1.1"
+            },
             "time": "2020-11-29T16:18:05+00:00"
         },
         {
